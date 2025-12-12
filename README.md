@@ -1,1 +1,3 @@
 # Pokemon_bot 
+Bu oyunda herkes !go komutu ile bir pokemon oluşturur ve savaştırır. Her pokemonun farklı özellikleri ve türleri vardır. Pokemonları savaştırmak için !attack @(kullanıcının adı) şeklinde isdeğimiz pokemonu savaştırabiliriz fakar 2 tarafında savaştırmak için pokemona sahip olduğundan emin olmalıyız. Kendi pokemonunuz ile ilgili bilgi edilmek için !info komutu ile pokemonunuzun: Adı, Türü, Saldırısı ve sağlığı gözükür. 2 türde pokemon vardır: Wizar ve Fighter. Wizard 10 saniyede bir beslenebilir ve her beslendiğinde +10hp hazanır. Fighter ise 20 saniyede bir beselenebilir ve her beslendiğinde +20hp kazarnır. Beslenmek için !feed komutunu kullanmanız yeterlidir.
+İyi Şanslar!
